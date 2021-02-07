@@ -1,0 +1,9 @@
+C:\Repos\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\netcoreapp3.1\SpecFlowCalculator.deps.json
+C:\Repos\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\netcoreapp3.1\SpecFlowCalculator.dll
+C:\Repos\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\netcoreapp3.1\SpecFlowCalculator.pdb
+C:\Repos\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.csprojAssemblyReference.cache
+C:\Repos\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.AssemblyInfoInputs.cache
+C:\Repos\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.AssemblyInfo.cs
+C:\Repos\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+C:\Repos\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.dll
+C:\Repos\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.pdb
